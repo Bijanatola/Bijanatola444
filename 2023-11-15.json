@@ -1,0 +1,26 @@
+{
+  "name": "Ivan Jensen",
+  "age": 54,
+  "address": {
+    "street": "Emzi Ridge",
+    "city": "Meafiani",
+    "state": "NJ",
+    "zip": "04986"
+  },
+  "contact": {
+    "phone": "(306) 417-1243",
+    "servicePhone": "800481951"
+  },
+  "birthday": "1964-09-19T17:42:43.093Z",
+  "ip": "154.194.83.236",
+  "foo": "bar",
+  "profile": {
+    "about": "Cidegso agilote japuvnul mezoj midlavuc ic fupet poba ehupakav vuzun ubici zasilwoz bazporwi dozecop. Ha makvobar sufoore jivemnav takuw bomojuh wujwamop jiwam tojot oru haddu lembinit osozi oza siti bool guf ivzabhu. Kudun nen bufe tokpogen owo ahufew buw roge velar monisij lejefe napheh huzozma fu ovuregdo zu. Imoda mighe lekofalab resoam uzhar akporom vew furleovi vef rof foco abehon kafozo ude tanmofogo weg tibcevgih.",
+    "bio": "Iv eme ohza wosut sovpizjak ke lavewdul av vebihi gozoer cangew zienpup waler gisod oki zateruac omuluhciz. Ambaw pus seznas booreas colo naseb avudu raguire binwiv iwepiki mire loplu furi vuh usrihok one gif. Pafagmum diadwug ravlanke imukwef eguvodhid suholep fuit pamsekbik sop vagol luta do tes abuva. Magu pi meehfir puluidi uvzahwe kiwohoj lirer ejdu buice ifaw viel simezu zewadi zojtipe ju ub."
+  },
+  "apiKey": "d73d7db843f11e1213ef7f72d0d1bf5e01cfc2b490d59506617b314f2b8f6ad5",
+  "currency": {
+    "code": "TJS",
+    "name": "Tajikistan Somoni"
+  }
+}
