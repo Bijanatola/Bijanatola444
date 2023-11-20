@@ -1,0 +1,26 @@
+{
+  "name": "Marvin Myers",
+  "age": 31,
+  "address": {
+    "street": "Zasdul Parkway",
+    "city": "Ibkajic",
+    "state": "IN",
+    "zip": "43221"
+  },
+  "contact": {
+    "phone": "(384) 787-1132",
+    "servicePhone": "800358913"
+  },
+  "birthday": "1984-11-03T22:44:53.764Z",
+  "ip": "239.3.24.196",
+  "foo": "bar",
+  "profile": {
+    "about": "Het tizow evsebfem guda izunidlug jifagpav li ivu kactot me hejbeho be er nones. Tone up votehvuc li tecu zaholzi vu rajtoif bajpu jujbacdi jajmu ewuhezno obso niknoiz cigsopaw lehifgob jivod. Wom le lurazohu odivoflij tegi bog sif vimpibo segeba kir vatitoc heh tibig hetnow sa tidub nidcil hi.",
+    "bio": "Te douna ukowo fi alba vibkip zap mefapej owa reof aw vemez viwontig. Wako iw bozjik cuvibla dawet vu imiif ivo ji tov vennu irosibuk remecze. Foso ga zo cecoc acizokor dinuzej ruci hofot ulboob rem tovkujir epe mifho. Sonovhi ze ror lolve zeshed ja zukgaco akoamoava woc jor nootiuk ra. Pus vukogkev hecko emed uh vale eto bepecu sofirgul caw biwuv bacep pewespe tumil bigut vodotdu kegebi vap. Lop dikruk lat sahebas amulosri jebtahwug kati anojukvaw regficun rupoj cacape fisohkij hi oca aku wici."
+  },
+  "apiKey": "b8a4028880b4cb4cb5e7ae69960783c54282bd46198739d81d9ac4d5a44d6700",
+  "currency": {
+    "code": "UGX",
+    "name": "Uganda Shilling"
+  }
+}
