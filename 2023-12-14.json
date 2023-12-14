@@ -1,0 +1,26 @@
+{
+  "name": "Peter Park",
+  "age": 44,
+  "address": {
+    "street": "Favek Trail",
+    "city": "Noabire",
+    "state": "LA",
+    "zip": "04336"
+  },
+  "contact": {
+    "phone": "(364) 549-9755",
+    "servicePhone": "800858949"
+  },
+  "birthday": "1973-02-10T22:57:43.550Z",
+  "ip": "22.102.72.190",
+  "foo": "bar",
+  "profile": {
+    "about": "He gaja dootu fizlofme sijhanub zabtam vakiur pudam mi wo kub pihlule. Puvij ti al necul wan ufu gopujac pup pa ij ocji efkih gugolu tosipsi duzjazpah wef. Kum cec ifireh jazo ru tesacki bujomgu teb pi jenmo isa juakev nar cokegso. Haluzawa secsiiwo meduko ehojaso tozcap kaf rupron jo jeapmob dej bug to.",
+    "bio": "Weba wi wadle kunammab gakozwo dacahjag ehpen viffot cadbaf fut ummucku da zungiloc. Bi oti zirkudco regwor wogud hip les kebim ovo bewbap okugo enawuno re offoz go wapelol dinalro zeb. Midnizrur su avre jitehbez zoca hujopce gicpon ozgu mip cuvovwoj fowu uhdel fos wob cibnubiz ihosal libne ohdo."
+  },
+  "apiKey": "4bda490db24284892138239b025dc004b0010009576a7cc862f9ddde77451826",
+  "currency": {
+    "code": "WST",
+    "name": "Samoa Tala"
+  }
+}
