@@ -1,0 +1,26 @@
+{
+  "name": "Luke Kelly",
+  "age": 30,
+  "address": {
+    "street": "Gene River",
+    "city": "Ehefarlap",
+    "state": "MA",
+    "zip": "63102"
+  },
+  "contact": {
+    "phone": "(276) 458-7313",
+    "servicePhone": "800883813"
+  },
+  "birthday": "1961-04-14T00:03:35.999Z",
+  "ip": "190.75.106.152",
+  "foo": "bar",
+  "profile": {
+    "about": "Zew la bezad zi usecuzev vunerjur mu me nebutsi mez zewto rav dohur for ded ohouko fas. Jiprumga zavag hi temwi sofki nobilta taf ulzo ibe oc hogrired cieffob kupigo. Sip jeitejor pijtud mertirmov usa lamlaroz puoduira egwi veninuf mis guros ehare ejuiw. Simwag veociwe radu rug nahesabos aru regouk ifiva vimluza huteso nokizan tibi bois bukel gugdo dolaf lier cupedelu.",
+    "bio": "Uru tirli ebifa bireswok totepze er tuson ajvuto welis won suope cocekihi hur topliv ad tunrivpi zerovi fef. Mepwekem oh eda igihol zedzo jeuro abimbu iv fu ki ub ecu lazju nifan tuoh nukojici. Ti otowe eweakto bardez wicioha vicfejeg fiw ihudaded bok wu mavugo kegru us dulog guzefkel wagnadpu hekuede. Iheete tebnu kouvij ellec nopag wewbenew wud vopuco cabena giwejuv bur bahuwuc diugeso za penoki je. Ci ratawmi nubrol imu soakele lob gupnozbu salnukmi otowi jiewu gi mubbikdeg asnawev gil hahit zebra dubjapci cutvefli. Ef magusso nabalaata kepa heevpat am vi kuztok urfe ru sig her cucca."
+  },
+  "apiKey": "6a3478a321f783515ff974c5829d21c8ee628a9d897e3e33ebaf456718a65994",
+  "currency": {
+    "code": "TZS",
+    "name": "Tanzania Shilling"
+  }
+}
