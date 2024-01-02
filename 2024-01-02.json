@@ -1,0 +1,26 @@
+{
+  "name": "Landon Drake",
+  "age": 25,
+  "address": {
+    "street": "Lavzig Manor",
+    "city": "Suewosa",
+    "state": "WY",
+    "zip": "39235"
+  },
+  "contact": {
+    "phone": "(640) 324-5528",
+    "servicePhone": "800168174"
+  },
+  "birthday": "1995-11-12T22:26:10.543Z",
+  "ip": "204.210.70.163",
+  "foo": "bar",
+  "profile": {
+    "about": "Vof nuukhe afunod vofoj cifekni zevadede weca ja aceta udugacgin moflu nid bimvuto riezirul ki fa haspum pe. Misguaje wacdudira roksomes mi dapju tuz jukgetfe iserin kuhzeib pub higbamze cakkib fiktudiv edeib asu kic. Sihge apmeb nanu havivhok rubafrij pih tug geje siefaafi ja giisiku epeorgot. Cihvus rukpubizu na liawomal midwim ravo wozevi je keze ezotain sisukzuz vawaz turanufe tip. Par hahmucgog coomgop vor unguseh muc cowfa pomfu wufe ijidugbel ig daed zufot lu hu vizlatiw izonieca. Deb wen etliwen em cus lis ofupes no diwho es fibdewcod tic.",
+    "bio": "Husbaup tuwgor me re joec umti senap befbelagi ni ocahi be wocruke duhvu nurep vuciho su. Za ad hudcag peknu lurimeepu tutoce ra zesawoh gomis wahro put ripadu piciv citju. Cubofad bifdokal oj zodo codpale cihwi pacek kifiib tosose jabij woznem pegcu lipho tikhe bavav zelsumor danfe."
+  },
+  "apiKey": "709b7beeb0f92a61dc87c9f13a6ae877fdef378bad008073d82c1e76680f38ea",
+  "currency": {
+    "code": "SVC",
+    "name": "El Salvador Colon"
+  }
+}
