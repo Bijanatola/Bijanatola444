@@ -1,0 +1,26 @@
+{
+  "name": "Blake Underwood",
+  "age": 50,
+  "address": {
+    "street": "Gindon Point",
+    "city": "Ehuusirug",
+    "state": "DE",
+    "zip": "90595"
+  },
+  "contact": {
+    "phone": "(949) 327-4910",
+    "servicePhone": "800681275"
+  },
+  "birthday": "1997-09-11T16:34:50.417Z",
+  "ip": "78.185.5.201",
+  "foo": "bar",
+  "profile": {
+    "about": "Uvin zoh wugnojnas saot vajoiza cav biroh ujeuwfah dup si wum nafovle. Ra zegmivsek odbo ovlof bivustu tovoibi jir uvadej os pokujnak digvitiba lik no fojgiupe. Nataon cunbe la jatalfoc zos vacopsoz nurmu di je mutelve fohsac buv. Ga ovo wup ifa fezofaj nurmab niaz rupwa zofkul kem wipij buji ugipi howsa sojfatif cuwpomfu babij. Kubestah hicjoh weirat aheje gozot lubcoki uscat kih lujzoha li li ihci acinigo fufzeclof nojjuh favenku ibjiswol.",
+    "bio": "Mu jinhoav acovel vuobhot dopig aji kupezaj zofun toheran kipe itcugwic mu evdiub juc lewgu wad. Tisda pazlepcuh sod guduvo hetiiri hi iffebpub avike onadoc tibpi tap joptawoc mumdudor. Bok pesud lus nuc bendan pif ninofiz awesi te lezni luolo wubaine ujitiim ra owbi fuplaffu. Ube kabceig taclopzi fodzi fip ci sabaf nualarof gadkojfal zub ketok vufvokdah rahro."
+  },
+  "apiKey": "cc907e6045ec88be2d3bf3443e5f953a125adc25038b90f8d2f7cf7b0c0ddc3b",
+  "currency": {
+    "code": "PEN",
+    "name": "Peru Nuevo Sol"
+  }
+}
