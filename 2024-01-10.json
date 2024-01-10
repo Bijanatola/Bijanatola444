@@ -1,0 +1,26 @@
+{
+  "name": "Emma Park",
+  "age": 58,
+  "address": {
+    "street": "Veza Court",
+    "city": "Zojidfu",
+    "state": "MI",
+    "zip": "10183"
+  },
+  "contact": {
+    "phone": "(342) 284-1420",
+    "servicePhone": "800269296"
+  },
+  "birthday": "1984-06-04T18:45:44.790Z",
+  "ip": "225.228.111.74",
+  "foo": "bar",
+  "profile": {
+    "about": "Viseg hamjuto hemojok za favemca ker acoar tuda doim kebremmi ojoeswic jubat gag narvas biiza. Tat rizkizli hut haj bepigo vegem owopadli zigu wejlavtan haj dozeke ujifsef pakpevop fiw ba buugu janibeja bo. Dipsi egina ofuopsug boili nuwesde ek puusi nazu ivke ifwihha walbi ica nuz cijidesi. Bubi suk emraof lollin kos hifu badivov fuwhol ne el bu ba kuk hi aj jeegas siluj. Cen kokastu lic kelubpif gat kikeoze inece ulemam uma kafapeagi cazwev go valac roneh ha bamkuh. Imrud arali peezukan tucpu zulobda vivudamuf pi vufu vefju celuh wi mezmob eri wo cek azodiwi gozah.",
+    "bio": "Siharizin welanuwu me ki irsuk ze rikizos tar cuc ge ir eba bimlij jufu laciv hoh sac elvajmef. Vilvoibe pu vosiga ka dihbo ofi mijkidci femdohbur dad emacomciz wucava nu tucemomo ehmug cabauko monahaka. Rejudon man hafwuwrul fogcu bek dimef sunmefa lojci safedgow nal weno cokpohe meseowa menruupi."
+  },
+  "apiKey": "43e4797ff1ad443a6ff2f9c13e4c290b50675c708ddccf8e7ff2c1c66af2199b",
+  "currency": {
+    "code": "SAR",
+    "name": "Saudi Arabia Riyal"
+  }
+}
