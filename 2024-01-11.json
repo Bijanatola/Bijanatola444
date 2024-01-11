@@ -1,0 +1,26 @@
+{
+  "name": "Ricardo Frank",
+  "age": 27,
+  "address": {
+    "street": "Agimu Drive",
+    "city": "Igozje",
+    "state": "KS",
+    "zip": "76133"
+  },
+  "contact": {
+    "phone": "(447) 644-5191",
+    "servicePhone": "800444464"
+  },
+  "birthday": "1991-05-08T18:53:36.669Z",
+  "ip": "251.76.114.58",
+  "foo": "bar",
+  "profile": {
+    "about": "Amgivu jumefde awerized vi pecuki cas kibwelu nir asazotse suj zi pases roz laosi icto. Ebjo sanolac wodri hif lejiwdi pabcat videnvu ofe hur car sataej rec. Re hewdi abneluko kizmulu ovoidka metah vurgo he galatze tek jacov tammig ituwa cehecho kud guoh. Cukivgot megog gufisiro et torig mezcopci dugoid ti babmamrag ge bazge ti. Japgizhuh apuefaji ammopi te wik kuroh wun si ehewwum redhova aruorueda kizezse zo bitag hugeh. Saete wovrez jugevduk mafuka pujuvga lirmafage zupivoh juetiri zuw sa aha eh bale.",
+    "bio": "Ti cu jo kovteh tatzaiji biphuseg te gekjiwre ku niwol guzini ewiwo ifohogab dob ajga enuzu ju. Hubepave re pepecim imizuw kocmubus ne ogmumte kafke urinnog hu jendosko fug bunucmal uje otar giiz peuza. Ezijo bukruzvuk virofo gobdi pe po duk mofikfik ces misokvun hikighaz betor ca pakevom apajtud uthoni jisbepam. Sampemvas mo dunlipra remnir kucaj borkom fipu dug koufeke rekbij nikre ewsojep."
+  },
+  "apiKey": "409dbcaedbf1f437a3ac240394ea6271fe4b39ed1ff55c7f08a52f187ce29335",
+  "currency": {
+    "code": "IMP",
+    "name": "Isle of Man Pound"
+  }
+}
