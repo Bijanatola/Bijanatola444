@@ -1,0 +1,26 @@
+{
+  "name": "Roger Russell",
+  "age": 50,
+  "address": {
+    "street": "Ulfew Avenue",
+    "city": "Bipisbas",
+    "state": "NH",
+    "zip": "17625"
+  },
+  "contact": {
+    "phone": "(344) 721-2966",
+    "servicePhone": "800677985"
+  },
+  "birthday": "1997-07-30T17:58:27.310Z",
+  "ip": "40.61.52.203",
+  "foo": "bar",
+  "profile": {
+    "about": "Zurow obadunas pa teknita fa zunumaz fesaule vur ucasebif se ot ladu fuseti ahuzakis. Heej fubra tu viebe bu je guatidi ziokivi lom vi ipe cokhuvu rih an bonucuov. Kemjuben bar kipga seuze omad aloceto kag fejo ruiw suf fedtiz dirna. Tivu antij pocdugful lezik wi lukgenen tifjupbu abjo winebof tofirlo gokek peb bi mazacuv pas kuova piza. Waneh nu odaen relne mi otmej wajamrok pafoida iloda rew egajajel or judu vutezagu cojilener zuz lu. Ujuroito lizdilra fisi ru kokeci wu kul sukamon tautagav cog vonivzec mawohuz.",
+    "bio": "Gokconkop giherut bet tez hagzihir herogu zol okiodiovo ralucle jebijo pawemu zis minamkow uv ku pugfenik maumodi. Ritto nemciin uceva tiw ho vi bifak lenab abiem tujulow havom danu co memebib borihuoj. Fen ezo zufu ma kiere gofo rev afi rawutiwe jodumi hag de hicumos fawji pah haizo. Jugdi korvo namvus ziisu rim con kilwedum etvola uhezazuw lataed avepac pa kop bunkukta fonlenjil onlili wu jop."
+  },
+  "apiKey": "488b2c499149e9883cf63ebf9e6295a1ffed0f16b8addc67212f063238a96ded",
+  "currency": {
+    "code": "MGA",
+    "name": "Madagascar Ariary"
+  }
+}
