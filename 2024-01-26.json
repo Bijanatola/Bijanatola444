@@ -1,0 +1,26 @@
+{
+  "name": "Bobby Cruz",
+  "age": 31,
+  "address": {
+    "street": "Budma Ridge",
+    "city": "Fonifpo",
+    "state": "ME",
+    "zip": "01691"
+  },
+  "contact": {
+    "phone": "(329) 934-5219",
+    "servicePhone": "800217124"
+  },
+  "birthday": "2000-01-04T00:16:53.885Z",
+  "ip": "35.23.121.233",
+  "foo": "bar",
+  "profile": {
+    "about": "Zijat peij ceini kahnabar av bop me an cuezu gojuz mizbup we wo maj. Fulut sef alu gogwoh eku ekauje bes mev zungeol ujera ine emazen beekive ro segig kufcebguj ipam. Tewlivso pol wococis zonhepig dasas wa pacepuw ute jise divu tada dajvig rupo ejozelce wecle favaj uv hezdib.",
+    "bio": "Eg gicomfar ekhepi mitbopmi ov sibgene sow colsi lewga niisisu sur zizmit enta tu ta wa nuhgudsof. Lasod hub tikacpe laj opaiduvov zazketre ci pe kezgotur zopizeku ugucad fib naf hizeveh ogisa kic. Cikev zat pu du evocid pivwap ode neimid suwetiluw cuaduv gijvokwik fi zipbo eri edzeroz."
+  },
+  "apiKey": "00f21fb6aa77a4daddb5b25d1e096bd7f3219d181f8bd22ea30002a579083793",
+  "currency": {
+    "code": "AZN",
+    "name": "Azerbaijan New Manat"
+  }
+}
