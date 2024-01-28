@@ -1,0 +1,26 @@
+{
+  "name": "Derek Moss",
+  "age": 61,
+  "address": {
+    "street": "Jomwu Way",
+    "city": "Abebave",
+    "state": "PA",
+    "zip": "66116"
+  },
+  "contact": {
+    "phone": "(254) 685-3080",
+    "servicePhone": "800665376"
+  },
+  "birthday": "2000-10-23T06:31:05.139Z",
+  "ip": "66.147.60.220",
+  "foo": "bar",
+  "profile": {
+    "about": "Fejji wibawo susit ser colvegned zad falisiz gicojwi lomute iwevarrad nagducnoh epe zilim mowotu gej zun bokwe ici. Je uvu ved ireivu uvi wucjolbic hibcaof ulvo becifcam zowjo uhgapka cur hi cid. Nijvaj arabin rofrod ubuuka tol se judogiota nelwolja efa toluge widon faher magjikja ri mu hic. Sulomco vep fagzo utuuf toep jo pabouda varavjah zawajlaf sotne do cev tituddir febu gud colidhuf do sik. Ked beh rapenkac mo fudno umuza ca nukauc mug niomeeco wa ufsuw ra fuvaliw. Bekpeweh awuhokij ja fucola peggacof ku ete nih pennu ubdawav bunamri lubbo faricke oka li ta winne. Cappogjiv uzicku pobropu zozoc aje otewak osaohuko li vebibkul norki kinehluw fek nuz lu ot sucuvfan ucvawlij hejvu.",
+    "bio": "Kutuwalav bucawsom pevu to ujifen bu li sendirdu efe dijjiw godu tapuc cop rivva winafij kabituse lenrej gon. Ikjokhu bewtuiza tem bojzuraf evzun notwobiz mu cadtocfo uwha vuca sakij ulu la go mo ewevohe ge ahvin. Fuiknim zom mih ba wilus zezjeopi lop ku gamubop faw wem etudeaza picuvu fun ese camvecdo nudtovi lo. Gowsegje ib ciz mi iruepfi tivi hom disvaz varlipa bohlakep norivtup kewe uguko. Bake fab soremu uzo tasaf roggunef cazjopnac wu rit dac dukro erelomtih ih od toapkuz azawav."
+  },
+  "apiKey": "dfb450bf4298e384425eb88f5a07ed5a75aacda50548d0345b737e14202c7e72",
+  "currency": {
+    "code": "HTG",
+    "name": "Haiti Gourde"
+  }
+}
