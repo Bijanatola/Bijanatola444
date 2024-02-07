@@ -1,0 +1,26 @@
+{
+  "name": "Dale Burgess",
+  "age": 53,
+  "address": {
+    "street": "Kouge Loop",
+    "city": "Zolcame",
+    "state": "NC",
+    "zip": "05572"
+  },
+  "contact": {
+    "phone": "(234) 665-5782",
+    "servicePhone": "800632245"
+  },
+  "birthday": "1977-09-25T16:04:36.117Z",
+  "ip": "218.228.222.88",
+  "foo": "bar",
+  "profile": {
+    "about": "Heb pis mub uwmos abemapbal toj ze edalih do den avaju booku jufohevu su pasfoga hiagoema toghin. Avisomoj lesoj juca gowgin dipivadap apafamar sijuda makiic nodsi wohav li he wuh ihebine lig uzifi raripze fugso. Je cug rone gogcuh mifvim noc hinvumsa uv vuvuuve juve suro gopmo luw. Peubi kelru vegtine de fonris dokro ehuocwop moghezih muccarvur jod gojse bomiw re usijegjov wed ele unerob. Gi zad tewfakur lunuvo eldiiju juc ati cogoduba luzo tuz rubmu nescuidu fathiv em ror ijnem perge.",
+    "bio": "Latzap resba hoinivu tomri ho nugva fagam tovgir jejacot wem hobuobi mowfewoz. Depvok cimnum nipagag jelihjoc gi ulu pak buv bozweline li kir jip cec neb pezeczuz lec. Oltag paconiv ok pod se nuw lelbopo pa nuckubijo jewoes rimzetwa wu. Hus su gogobacuz ubodom uwvefwe evep kaceneg vokce tu mijar ihuwus aj narorsa itu jeznab ba otinuhpij kof. Awzu cugobume vevzosha ca pe ecuokoto etu lupo lesuk tonda ti sirudepi ijuguzja ipuvavek toh neffegik atelemkul hijromog."
+  },
+  "apiKey": "cf38059791fea68121da7395b9d740b48222715b824424063fc27355daff178a",
+  "currency": {
+    "code": "PAB",
+    "name": "Panama Balboa"
+  }
+}
