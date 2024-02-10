@@ -1,0 +1,26 @@
+{
+  "name": "Joshua Wilkerson",
+  "age": 54,
+  "address": {
+    "street": "Vaana Junction",
+    "city": "Fupukil",
+    "state": "NH",
+    "zip": "04770"
+  },
+  "contact": {
+    "phone": "(921) 616-3257",
+    "servicePhone": "800885295"
+  },
+  "birthday": "1994-12-01T13:31:23.623Z",
+  "ip": "5.125.123.122",
+  "foo": "bar",
+  "profile": {
+    "about": "Otasakcun dibtecta atikok hejehjo cecu osojoovi wi dogif nici gofura ubnicmiv vig timko zenwo bu desejim zujtano. Buv zokbo ucufab jigpi foatome lu huj ruthag bozte elufi puotzi vaozu uf son wacafes. Bozzutca ca ilsad asazozab pod olojaude zuitca macaheuf fe jubadhi godadiep ja ofubur je efagus.",
+    "bio": "Eclep gina takdi cahjul vizer ne sin pec ra gir kaus owhunap oh wutason med owole pa. Uzapoga fi te aliran hon ibakubij de macopobor foj jiha selnab new uvovucas. Icdeim vejictus fa lul muugicaz hefdut lajul desgo him buwiti lir lurnegafa bek erofos lajowi got. Fewsaf jij jilin rab hoabra habofsak dicez se fomwiw nihu sagwip ca."
+  },
+  "apiKey": "24f4256379fd7d19585516fd004d07771a5402edb243be8af4736ef5c812340d",
+  "currency": {
+    "code": "GHS",
+    "name": "Ghana Cedi"
+  }
+}
