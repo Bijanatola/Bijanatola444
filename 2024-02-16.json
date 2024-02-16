@@ -1,0 +1,26 @@
+{
+  "name": "Lillian Hunt",
+  "age": 44,
+  "address": {
+    "street": "Mufa Pass",
+    "city": "Wickosu",
+    "state": "ME",
+    "zip": "24189"
+  },
+  "contact": {
+    "phone": "(936) 250-9601",
+    "servicePhone": "800965871"
+  },
+  "birthday": "1982-05-23T14:11:49.199Z",
+  "ip": "186.49.4.110",
+  "foo": "bar",
+  "profile": {
+    "about": "Tu kaji ezhikaw uri rit fi fulrisub wiva dimgi gubtejaw ud me aluzi laje ajehuw nuffefza. One ri amkelil fa ruzlaas tamawo zeptif pimruso vurpi ret esbu vurussi nokagov kej. Mez donrigbel co are gunbav zod mivi sumu ro sog zekjehiv cah. Pi ti nut zi fi jo tulijuzo ri seridib ca izugasol ajubahed pabnated av zinkuseb. Rowdogte sokfa cuvela cu hiciv revaoso dagiwi zo nag ri puvciffa toora kabazo gogwaslug ezjav da cisunej.",
+    "bio": "Osugivfec ufobogu pigef hopevihe ec bo sukufne degi sonwe koon hi ot retezu. Asadava behaf ahepiso tes zor ajajih debvej eze vatpumev zafnem gih zupho pir zucdab va guh. Kepigimi puhbeter ohmiczeb ju cilvenigo ojivojnaw onelav fazej azuuka tohicada egi ako."
+  },
+  "apiKey": "bd62b37102689db0c3b905d1dd39a0a225192797ec7682f417c0398064377514",
+  "currency": {
+    "code": "GIP",
+    "name": "Gibraltar Pound"
+  }
+}
