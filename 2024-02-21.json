@@ -1,0 +1,26 @@
+{
+  "name": "Jessie Mills",
+  "age": 21,
+  "address": {
+    "street": "Ogad Plaza",
+    "city": "Zafpuvise",
+    "state": "IA",
+    "zip": "61787"
+  },
+  "contact": {
+    "phone": "(655) 399-7217",
+    "servicePhone": "800541518"
+  },
+  "birthday": "1987-03-18T09:23:14.772Z",
+  "ip": "214.21.187.215",
+  "foo": "bar",
+  "profile": {
+    "about": "Jitnifah hin gu panu jioku ij vassul hofteig ik cuwejmi dohnite muru zonpugkar. Cedtegrej guwtuzuj fikudo idovi lizefe uzfu rorug cozgab locaape ze so fewepo gahuniko owwoso ruvgu. Sefiwum ziipo ceje meknekfu va jopge uwa diip ra vip lidas iv hi roswius cochuhu ej tijaduzu wosismeh.",
+    "bio": "Zulo ibabupun hubvag fu fimok nusjosa um cim punupbov ite me sed suk okobeg gidavpi. Siwudgaz mapmipo vel da ciec vuddid gaij kigobo ag vazic oze me jivkegi lehehomu biofeg pija zu. Bebe nakdod bok begdi na wo hu agasu sa caj fegsu umi cigne aniwe cik nezcoj lotisala."
+  },
+  "apiKey": "1e8c2f22200c8d123e6add6cd5ba0b6ae08d22cbe7919deff30abb29efb19829",
+  "currency": {
+    "code": "NPR",
+    "name": "Nepal Rupee"
+  }
+}
