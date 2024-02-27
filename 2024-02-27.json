@@ -1,0 +1,26 @@
+{
+  "name": "Eva White",
+  "age": 52,
+  "address": {
+    "street": "Bupni Path",
+    "city": "Zedzagvu",
+    "state": "PA",
+    "zip": "95932"
+  },
+  "contact": {
+    "phone": "(347) 449-8274",
+    "servicePhone": "800674767"
+  },
+  "birthday": "2003-12-25T04:58:57.740Z",
+  "ip": "234.32.245.133",
+  "foo": "bar",
+  "profile": {
+    "about": "Re keupbog holkatnin kavrolob ivvok ruthu ab gar jiwebu du rosag zivo uswebuji. Vule pad if das hiawa nip lowuhteb telabtag vo uti ijobowis remot ahe doj rel wes. Popnabih odfi simhof ik takehsek guazezu oce zemaz votdu so ebpir ig. Vonri jezre eha ruima neucvut rafnacwe vod ije seldar oforarso nufkit nalifi kitpegov docweaha kupes bitku.",
+    "bio": "Ozies fizuraw gu lurut fa cap ah gi ohapaffem agkokak fordod fi kifdaso mo. Li jojrepum vuv fo gezatdop de ne loegucu de bazido hopizef po voj. Eranozu jiatium otatitcop becse ce uf vakuaf dortittew me jiitu goj go."
+  },
+  "apiKey": "78850dfde0e3d1cc7c0296e2c2ffc52884b21b10da5dc635f74b356ac6f52cff",
+  "currency": {
+    "code": "BHD",
+    "name": "Bahrain Dinar"
+  }
+}
