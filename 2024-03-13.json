@@ -1,0 +1,26 @@
+{
+  "name": "Ricardo Vargas",
+  "age": 21,
+  "address": {
+    "street": "Azebe Key",
+    "city": "Kiszuulo",
+    "state": "AL",
+    "zip": "52524"
+  },
+  "contact": {
+    "phone": "(857) 993-2147",
+    "servicePhone": "800845858"
+  },
+  "birthday": "1961-07-05T14:24:17.789Z",
+  "ip": "98.9.8.34",
+  "foo": "bar",
+  "profile": {
+    "about": "Durti ma war eme ke odajicdu vubatil daw dicvajkac hagudi wo banredog odi nej leawu. Zeanukew lil jesew asapij banpibu tolopfug roazveg rafvupe bed modkos mugucib gicizri di no zu lirlume vak opcezo. Nudvijow lib mujfu wewjag senfazfo ejse feptot lotsev dah sipjies oju ruptom somka. It dulag oru ut tal negem ta rimilsi vace sunpusab bupwukcoc sum zuhno bimarcek.",
+    "bio": "Makunope luneho tuh jij zuf nudapifav tucihmuc kuagihe an mizesor nib nagogef aziridhu mape. Ujajomgu ceoldew jiek cobudu du gozoba nefcigu to kiev vuremati fus ze wog ogi jidafek neofetu. Iku hanod pa meumiodu tojmok cafzahsad zifigpa uni ifiwuvaru lenap joegufa fa godive gij fi. Viw caolaton epepoki faslona vavihi ujpa kemleoc tupfosce ci rez zi ote gegoefi ufaivesa bujufkuz teci. Joc ja ofzoro gilosit nukzuco gaan buje cuzdum aze vik acopuv sihluttak ehijucve zosi kuccin."
+  },
+  "apiKey": "929f32c36a555f363f7ff917a526b1852db46ec241dd66348eea61bf738ac60b",
+  "currency": {
+    "code": "ILS",
+    "name": "Israel Shekel"
+  }
+}
