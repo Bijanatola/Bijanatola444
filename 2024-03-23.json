@@ -1,0 +1,26 @@
+{
+  "name": "Flora Obrien",
+  "age": 53,
+  "address": {
+    "street": "Melpu Plaza",
+    "city": "Huhrazhi",
+    "state": "OR",
+    "zip": "68338"
+  },
+  "contact": {
+    "phone": "(357) 688-5314",
+    "servicePhone": "800839337"
+  },
+  "birthday": "1977-06-23T15:32:30.497Z",
+  "ip": "115.125.121.207",
+  "foo": "bar",
+  "profile": {
+    "about": "Hinufok ozo fetu do da zoesut eguzokid rodpujo ofehel les kilo filaj gozesom daga huutnaf. Uzcersit hezmupe pusoval bobkebo edi hu wuzooge enopu ebi tenonuh geesjo tosij seewu rovsujat. Bisec igenno ne de vani ceemetas ribgikoc cu buwirgo epenebif vuud ti ujo.",
+    "bio": "Rasure nujharud faodevic inidufa egu pacmehrep setmo huken om seg ipauvu catzeb milde kev im. Aj kuwav luwkifa meew ra tum gemar pelesa hucaap owotaoj soc uccocan wekzel. Jallil lip koto di ut rajhet embe degpulfi so petisu fa gal haal nugfo annu nun botopiug te."
+  },
+  "apiKey": "8c93760874fdc16e9e849978309548fb5edc102377e374462f05e2e699177eeb",
+  "currency": {
+    "code": "GTQ",
+    "name": "Guatemala Quetzal"
+  }
+}
